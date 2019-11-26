@@ -24,6 +24,30 @@ main div a, main div span {
 	margin: 0 .25rem;
 }
 
+.hero {
+	background-image: url("/_static/home-black.jpg");
+	height: 90vh;
+	background-position: center; 
+	background-size: cover;
+	width: 100vw;
+	margin-left:-2.5rem;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+img + div {
+	display: flex;
+	justify-content: space-around;
+}
+
+div > img {
+	height: 5rem;
+	width: auto;
+}
+
 form {
 	display: flex;
 	flex-direction: column;

@@ -11,12 +11,12 @@ layout: _template
 
 ## X1 SPORT DRESS
 
-<img src="" alt="white-1">
+<img src="/_static/white-1.jpg" alt="white-1">
 
 <div>
-	<img src="" alt="white-1">
-	<img src="" alt="white-2">
-	<img src="" alt="white-3">
+	<img src="/_static/white-1.jpg" alt="white-1">
+	<img src="/_static/white-2.jpg" alt="white-2">
+	<img src="/_static/white-3.jpg" alt="white-3">
 </div>
 
 ### $360.00

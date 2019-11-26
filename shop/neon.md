@@ -11,14 +11,14 @@ layout: _template
 
 ## X1 SPORT DRESS
 
-<img src="" alt="neon-1">
+<img src="/_static/neon-1.jpeg" alt="neon-1">
 
 <div>
-	<img src="" alt="neon-1">
-	<img src="" alt="neon-2">
-	<img src="" alt="neon-3">
-	<img src="" alt="neon-4">
-	<img src="" alt="neon-5c">
+	<img src="/_static/neon-1.jpeg" alt="neon-1">
+	<img src="/_static/neon-2.jpg" alt="neon-2">
+	<img src="/_static/neon-3.jpg" alt="neon-3">
+	<img src="/_static/neon-4.jpg" alt="neon-4">
+	<img src="/_static/neon-5.jpg" alt="neon-5">
 </div>
 
 ### $360.00
