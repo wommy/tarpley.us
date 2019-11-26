@@ -1,0 +1,68 @@
+body {
+	font-family: sans-serif;
+}
+
+header {
+	display: flex;
+	justify-content: space-around;
+}
+
+main {
+	margin: 2rem;
+}
+
+main h2 {
+	text-align: center;
+}
+
+main div {
+	display: flex;
+	margin: .5rem 0;
+}
+
+main div a, main div span {
+	margin: 0 .25rem;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	margin: 1rem 0;
+}
+
+form div {
+	display: flex;
+}
+
+form div input {
+	flex-grow: 2
+}
+
+input[type=submit] {
+	width: 5rem;
+	margin-left: auto;
+}
+
+footer {
+	display: flex;
+}
+
+nav span, a {
+	display: block;
+}
+
+nav > span {
+	margin-bottom: .5rem;
+}
+nav {
+	margin-bottom: 1.25rem;
+}
+nav a {
+	margin: .25rem 0;
+}
+
+.left, .right {
+	display: flex;
+	flex-direction: column;
+	margin: 1rem;
+}

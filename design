@@ -1,0 +1,115 @@
+=== 1021 - brooks's tarpley.us site design doc
+
+	header
+	content
+	footer
+
+	header
+		left align
+			cart (0)
+		center
+			T A R P L E Y
+		right
+			search
+			hamburger
+	
+	content
+		img
+			parallax
+
+	footer
+		left: 3 nav
+			Info
+				about
+				sustainability
+			Orders
+				shipping
+				returns
+				contact
+			Social
+				instagram
+				facebook
+				youtube
+				pinterest
+				twitter
+				tiktok
+		right:
+			newsletter-form
+				title
+				description
+				input: email
+				input: submit
+		
+	sitemap
+		index
+			img
+				css: parallax
+		about
+			title
+				centered
+			content
+		sustainability
+			title	- the standard
+			content
+			img
+			more_content
+			pdf_dl-link-button
+			econyl_product-link-button
+		shipping
+			title
+			subtitle - policy
+			content
+		returns
+			title
+			subtitle - policy
+			content
+		contact
+			title - inquiries
+			form
+				label - name *
+				input - input
+				first name - last name
+				email address *
+				subject * 
+				message *
+				button.submit
+		shop
+			index
+				title - spring/summer 2019
+				grid: 2x2
+					data
+						4x x1 sport dress
+							black
+							white
+							neon
+							gray
+					template
+						img
+						title
+			black
+				nav
+					breadcrumbs
+					pagination
+				content
+					title
+					img
+					img-nav [1-4]
+					price
+					sub-content
+						title + description
+						[details, sustain, sizing]
+					form
+						size + input.select
+						button.submit.addtocart
+					nav.social.share
+						fb, twitter, linkedin reddit tumblr pinterest
+		cart
+			title - shopping cart
+			null
+			continue shopping
+		search
+			form
+				input
+					icon
+					text
+

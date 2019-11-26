@@ -1,0 +1,12 @@
+{
+  "name": "tarpley.us",
+  "version": "1.0.0",
+  "description": "brooks's tarpley.us site",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/tarpley.us.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
